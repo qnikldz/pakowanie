@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Pakowanie 0.0.1</string>
+    <string name="title_activity_main">Pakowanie</string>
 </resources>
